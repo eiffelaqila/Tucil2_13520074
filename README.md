@@ -12,6 +12,12 @@ Berikut ini adalah struktur folder dari project ini:
 * Folder `doc` berisi laporan tugas kecil.
 * README
 
+## Requirement Program
+- [Python (versi yang digunakan dalam pembuatan program ini: 3.9.8)](https://www.python.org/downloads/)
+- [Numpy](https://numpy.org/install/)
+- [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+- [Sklearn](https://scikit-learn.org/stable/install.html)
+- [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
 
 ## Prosedur Penggunaan
 1. Untuk clone repository, jalankan
@@ -22,13 +28,6 @@ git clone https://github.com/eiffelaqila/Tucil2_13520074
 ```
 python src/main.py
 ```
-
-## Requirement Program
-* Python (3.9.8)
-* pandas
-* matplotlib
-* numpy
-* sklearn
 
 ## Author
 Program ini dikembangkan dalam rangka memenuhi salah satu tugas kecil mata kuliah Strategi Algoritma. Program ini dikembangkan oleh
